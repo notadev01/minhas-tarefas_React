@@ -1,5 +1,5 @@
 import { Provider } from 'react-redux'
-import { createBrowserRouter, Router, RouterProvider } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 import EstiloGlobal, { Container } from './styles'
 
